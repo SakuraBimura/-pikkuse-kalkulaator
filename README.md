@@ -12,7 +12,7 @@ KÄIVITAMISEKS: src/tootab.java   vaja käivitada
  * Teema: GPS koordinaadid / ÖÖ pikkuse arvutamine
  *
  *
- * Autor: Tahvo Riso
+ * 
  *
  *
  * Programmi kasutusjuhis :
